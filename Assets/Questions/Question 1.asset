@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 411948743bf2bbc4187374f1e817f5f8, type: 3}
   m_Name: Question 1
   m_EditorClassIdentifier: 
-  question: Enter new Question
+  question: Quien es la mujer mas preciosa?
+  answers:
+  - Ester Exposito
+  - Andrea Resendiz
+  - Angelina Jolie
+  - Scarlett Johansson
+  correctAnswer: 1

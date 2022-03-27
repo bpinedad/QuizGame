@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 411948743bf2bbc4187374f1e817f5f8, type: 3}
   m_Name: Question 3
   m_EditorClassIdentifier: 
-  question: Enter new Question
+  question: Cual es el proposito de un integral triple en el plano imaginario?
+  answers:
+  - No se
+  - Integrar triple en el plano imaginario
+  - Descubrir la felicidad
+  - Que es una integral?
+  correctAnswer: 0

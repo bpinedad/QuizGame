@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 411948743bf2bbc4187374f1e817f5f8, type: 3}
   m_Name: Question 0
   m_EditorClassIdentifier: 
-  question: How u Doin
+  question: Cuando se celebra la independencia de US?
   answers:
-  - Doin greit
-  - Not so greit
-  - Que te prro
-  - La mayonesa es un instrumento
+  - 4 de Julio
+  - 4 de Junio
+  - 22 de Diciembre
+  - 31 de Febrero
   correctAnswer: 0
